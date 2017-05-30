@@ -1,0 +1,44 @@
+<div class="container">
+<h1 align="center">Afghanistan</h1>
+<h2 align="center" >The country which is beautiful</h2>
+<div id="img">
+<img src="033.jpg" alt="image" style="width:1000px; height:630px" >
+ <div class="caption" align="center">Afghanistan is located in the south Asia</div>
+</div>
+
+
+<div class="ulclass">
+
+<h3>This is some list of Afghanistan's provinces:</h3>
+<ul style="list-style-type:disk">
+<li><strong>Kabul</strong> - Kabul is the capital of Afghanistan.</li>
+<li><strong>Ghazni</strong> - This province is the cultural capital of Islamic countries in the 2013.</li>
+<li><strong>Bamyan</strong> - Bamyan has got the SARC membership and every year there is participating a hug celebration.</li>
+<li><strong>Daikundi</STRONG> - This province is known as its fruits and culture.</li>
+<li><strong>Balkh</strong> - balkh is one of the most ancient provinces of afghanistan.</li>
+<li><strong>Herat</strong> - Herat is a developed province now in afghanistan which is located in the west of Afghanistan.</li>
+<li><strong>Badakshan</strong> - Has a border with sinkiang in china and it has much canes inside.</li>
+<li><strong>panjshir</strong> - Has a good weather.</li>
+<li><strong>kandahar</strong> - Is a big city in south Afghanistan.</li>
+<li><strong>Helmand</strong>It is also in the sout of afghanistan.</li>
+<li><strong>Konduz</strong> - A good province in the north of afghanistan.</li>
+</ul><blockqoute>
+     <p>"Borlaug's life and achievement are testimony to the
+ far-reaching contribution that one man's towering intellect,
+ persistence and scientific vision can make to human peace and progress."</p>
+</br>
+<footer><cite>_Indian Prime Minister Manmohan Singh</cite></footer>
+</blockqoute>
+<h2 id="links">
+If you have time,
+ you should read more about Afghanistan country and  it's provinces <br><a href="http://www.wikipedia.com/Afghanistan" target="_blank">Wikipedia entry</a>.</h2>
+
+</div>
+
+
+
+
+
+
+
+</div>
