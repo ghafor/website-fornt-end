@@ -1,0 +1,22 @@
+.container{
+background-color:#EEE;
+width:1024px;
+position:center;
+margin:0 auto;
+
+}
+h2{
+font-style:italic;
+}
+.ulclass{
+
+padding-right:200px;
+padding-left:200px;
+}
+div#img{
+background-color:rgb(237,253,211);
+padding: 12px;
+}
+#links{
+font-family:Arial;
+}
